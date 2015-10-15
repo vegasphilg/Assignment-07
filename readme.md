@@ -1,6 +1,6 @@
 # 10/14/15
 
-___This homework is due by 8am, on 10/15/2015___
+___This homework is due by 8am, on 10/15/2015____
 
 
 ## Description
